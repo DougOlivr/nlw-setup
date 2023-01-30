@@ -1,4 +1,5 @@
 import { Header } from './components/Header'
+import './lib/dayjs'
 import { SummaryTable } from './components/SummaryTables'
 
 function App() {
